@@ -1,4 +1,4 @@
-<img width="1332" height="740" alt="Screenshot 2026-11-23 145037" src="https://github.com/user-attachments/assets/4594c8a7-50ed-4847-a92f-98bab4807c18" />📊 Super Store Sales Analysis Dashboard
+📊 Super Store Sales Analysis Dashboard
 Recently Learned: Interactive Super Store Sales Analysis Dashboard. Developed an interactive Power BI Dashboard to analyze Super Store Sales performance.
 
 Used DAX, data modeling, KPIs, filters, and interactive visualizations to identify business trends and insights.
